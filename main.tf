@@ -1,7 +1,7 @@
 # Alexandre R Santana
 # Documentação: https://registry.terraform.io/providers/hashicorp/aws/latest/docs
 # Videos Aula: https://www.udemy.com/course/aws-com-terraform
-
+###############################################################################
 terraform {
   required_providers {
     aws = {
