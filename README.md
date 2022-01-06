@@ -1,4 +1,5 @@
-﻿# Terraform_AWS - Criando uma estrutura inicial
+﻿![alt text] (https://github.com/alerabello/terraform_AWS/blob/main/img/terraform_logo.svg)
+# Terraform_AWS - Criando uma estrutura inicial
 
 Este documento será minha primeira crianção de um ambiente AWS com terraform.
 
