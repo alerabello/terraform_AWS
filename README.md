@@ -1,4 +1,4 @@
-
+![<alt text>](https://github.com/alerabello/terraform_AWS/blob/main/img/terraform_logo.svg)
 # Terraform_AWS - Criando uma estrutura inicial
 
     Forums: HashiCorp Discuss
