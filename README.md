@@ -19,4 +19,4 @@ estarei usando alguns serviços amazon cloud.
     -> Documentos de estudo para criação do main.tf junto com videos aulas. 
 
 # 0.0.3 - Criação de um Bucket S3 - Teste.
-     [!IMPORTANT]-> Obs: Lembre-se de dar permisão S3 Acess no IAM da amazon Cloud
+    -> Obs: Lembre-se de dar permisão S3 Acess no IAM da amazon Cloud
