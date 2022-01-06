@@ -1,12 +1,21 @@
 
 # Terraform_AWS - Criando uma estrutura inicial
 
-Este documento será minha primeira crianção de um ambiente AWS com terraform.
+    Forums: HashiCorp Discuss
+    Documentation: https://www.terraform.io/docs/
+    Tutorials: HashiCorp's Learn Platform
+    
+# Introdução
+Este documento será minha primeira crianção de um ambiente AWS com terraform, onde
+estarei usando alguns serviços amazon cloud.
+
+# Requisitos para rodar o template
+    -Configuração terraform WINDOWS/MAC/Linux
+         Terraform: https://www.terraform.io/downloads
 
 ﻿# Atualizações / Updates 🚀
  
 # 0.0.2 - Padronização Terraform - 
-    https://registry.terraform.io/providers/hashicorp/aws/latest/docs
     -> Documentos de estudo para criação do main.tf junto com videos aulas. 
 
 # 0.0.3 - Criação de um Bucket S3 - Teste.
